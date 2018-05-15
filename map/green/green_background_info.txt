@@ -1,0 +1,87 @@
+
+-- Cactus
+DECO L TS1 11 10
+DECO l TS1 11 11
+DECO R TS1 12 10
+DECO r TS1 12 11
+DECO 9 TS1 11 9
+DECO 6 TS1 12 9
+
+-- Tree
+DECO A TS1 19 9
+DECO a TS1 19 10
+DECO B TS1 20 8
+DECO b TS1 20 9
+
+-- Ground
+DECO C TS1 12 1
+DECO c TS1 12 2
+
+-- Ground ramp down
+DECO D TS1 16 1
+DECO d TS1 16 2
+
+-- Ground ramp up
+DECO E TS1 17 1
+DECO e TS1 17 2
+
+-- Fleur
+DECO F TS1 19 7
+DECO f TS1 19 8
+
+-- Buisson
+DECO g TS1 19 11
+DECO h TS1 20 11
+DECO i TS1 21 11
+
+-- Rambarde
+DECO G TS1 27 16
+DECO H TS1 28 16
+DECO I TS1 29 16
+
+-- Cube jaune
+DECO J TS1 9 10
+DECO j TS1 9 11
+DECO K TS1 10 10
+DECO k TS1 10 11
+
+-- Champignon
+DECO M TS1 11 4
+DECO N TS1 12 4
+DECO O TS1 13 4
+DECO n TS1 14 4
+DECO o TS1 15 4
+
+-- Cloud
+DECO P TS3 38 15
+DECO p TS3 38 16
+DECO Q TS3 39 15
+DECO q TS3 39 16
+DECO S TS3 40 15
+DECO s TS3 40 16
+
+-- Tube
+DECO T TS1 26 7
+DECO t TS1 26 8
+DECO U TS1 27 7
+DECO u TS1 27 8
+
+-- Rebord ground
+DECO V TS1 14 1
+DECO v TS1 14 2
+DECO W TS1 15 1
+DECO w TS1 15 2
+
+-- Box
+DECO x TS1 14 13
+
+------------------
+
+1234567890°+
+&é"'(-è_çà)=
+
+?./§%µ¨£
+,;:!ù*^$
+
+~#{[|`\^@]}  <- alt gr
+

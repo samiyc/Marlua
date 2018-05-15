@@ -1,0 +1,11 @@
+BACKGROUND background/background.png
+TILESET TS1 LAYER_123 16 1 tileset/mario_tiles.png 109 159 185
+TILESET TS2 LAYER_1__ 24 1 tileset/mario_maker.png 147 187 236
+TILESET TS3 LAYER_123 16 2 tileset/mario_mb3.png   176 224 248
+TILESET TS4 LAYER_123 16 1 tileset/big.png         200 191 231
+--MAP test map/test/test 
+MAP Greenworld map/green/green
+MAP Iceworld map/ice/ice
+MAP Caveworld map/cave/cave
+MAP Skyworld map/ciel/ciel
+TEST NO

@@ -1,0 +1,70 @@
+
+-- Indus tube pink
+DECO a TS3 32 11
+DECO b TS3 33 11
+DECO A TS3 34 11
+DECO 1 TS3 32 12
+DECO 2 TS3 33 12
+DECO 3 TS3 34 12
+
+-- Ground
+DECO C TS3 31 17
+DECO c TS3 31 18
+
+-- Ground ramp down
+DECO D TS3 34 19
+DECO d TS3 31 20
+
+-- Ground ramp up
+DECO E TS3 33 19
+DECO e TS3 30 21
+
+-- Buisson
+DECO g TS1 22 11
+DECO h TS1 23 11
+DECO i TS1 24 11
+
+-- Cube jaune
+DECO J TS1 5 12
+DECO j TS1 5 13
+DECO K TS1 6 12
+DECO k TS1 6 13
+
+-- Arbre
+DECO B TS4 51 24
+DECO L TS4 55 21
+DECO l TS4 55 22
+DECO M TS4 56 21
+DECO m TS4 56 22
+DECO O TS4 57 21
+DECO o TS4 57 22
+
+-- Cloud
+DECO P TS3 38 15
+DECO p TS3 38 16
+DECO Q TS3 39 15
+DECO q TS3 39 16
+DECO S TS3 40 15
+DECO s TS3 40 16
+
+
+
+-- Rebord ground
+DECO V TS3 30 17
+DECO v TS3 30 18
+DECO W TS3 32 17
+DECO w TS3 32 18
+
+-- Box
+DECO x TS4 56 18
+
+------------------
+
+1234567890°+
+&é"'(-è_çà)=
+
+?./§%µ¨£
+,;:!ù*^$
+
+~#{[|`\^@]}  <- alt gr
+

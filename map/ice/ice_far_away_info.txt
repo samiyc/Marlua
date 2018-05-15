@@ -1,0 +1,31 @@
+
+-- Ground
+DECO C TS3 31 17
+DECO c TS3 31 18
+
+-- Ground ramp down
+DECO D TS3 34 19
+DECO d TS3 31 20
+
+-- Ground ramp up
+DECO E TS3 33 19
+DECO e TS3 30 21
+
+-- Flat Ground
+DECO F TS3 38 21
+DECO G TS3 39 21
+DECO H TS3 40 21
+
+-- Cloud
+DECO P TS3 38 15
+DECO p TS3 38 16
+DECO Q TS3 39 15
+DECO q TS3 39 16
+DECO S TS3 40 15
+DECO s TS3 40 16
+
+-- Rebord ground
+DECO V TS3 30 17
+DECO v TS3 30 18
+DECO W TS3 32 17
+DECO w TS3 32 18

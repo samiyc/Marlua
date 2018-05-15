@@ -1,0 +1,15 @@
+
+-- Light
+DECO a TS4 75 46
+DECO A TS4 77 45
+
+--vert i beam
+DECO d TS4 71 49
+DECO c TS4 71 50
+DECO b TS4 71 51
+
+-- Red light on vert i beam
+DECO C TS4 78 45
+
+
+

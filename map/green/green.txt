@@ -1,0 +1,308 @@
+#     n        
+#              
+#          
+#              
+#          
+#              
+#           
+#  c          
+#  c1 o       
+#  c           
+#         n    
+#3             
+#             
+R              
+    o         
+               
+llL            
+mm#2           
+rrR            
+               
+      o       
+               
+llL            
+mm#3           
+rrR            
+               
+     o   n     
+L              
+#3             
+#              
+#              
+# d            
+#          n   
+#  c           
+#  c  o        
+#  c1 o        
+#  c           
+#              
+#1    z        
+Rx    z2 o     
+      z        
+               
+L             
+#p             
+#         n    
+#    o         
+#    o         
+#c   o        
+#              
+#cc            
+#              
+#cccf          
+#      n       
+# d            
+#1             
+#1             
+#1             
+#              
+#              
+R              
+               
+   c           
+   c           
+   c1          
+   c   o     n 
+               
+      c       
+      c   o    
+      c2  o    
+      c   o    
+      c       
+               
+   c   o       
+   c1          
+   c      n    
+   c           
+         xxxxx 
+L        x      
+#        x   
+#  xxxxxxx     
+#  x      
+#1 x           
+#            
+#             
+#xxxxxx        
+#  oo x1   x  
+#  oo x    x  
+#  oo xxxxxx   
+#1             
+# d            
+#1            
+#          z   
+#1         z  
+#     z    z    
+#1    z3        
+#     z         
+#1    xxxxxxxxxx
+#             
+#1       
+#              
+R              
+               
+   ooo       n  
+               
+lLf             
+rR              
+               
+   ooo    n     
+               
+lL              
+rR              
+               
+   ooo          
+               
+L         n    
+#1             
+#             
+#1  c          
+#   c2  o      
+#1  c   o      
+#   c   o      
+#1  c          
+#              
+#              
+#        n     
+#              
+#x             
+#xx            
+#xxx           
+#xxxx          
+#xxxxx         
+#xxxxxx1       
+#   o z        
+#   o z1       
+#1  o z        
+#1  o z1       
+#1             
+#            n 
+R              
+               
+               
+  c           
+  c3          
+  c           
+            n  
+               
+     c   o     
+     c1  o     
+     c   o     
+               
+L o            
+# o            
+#llLf          
+RrrR  o        
+               
+          n    
+               
+lllllL  o      
+rrrrrR  o      
+               
+             n 
+               
+lllL  o        
+rrrR           
+               
+        n      
+L              
+R              
+      c        
+      c3       
+      c        
+L             
+#tT            
+#uU            
+#1d            
+#              
+#1        n    
+#              
+#1             
+#              
+#2             
+#              
+#1             
+#       n      
+#1             
+#x             
+#xx  ooooo       
+#x             
+#          
+#2   xx      
+#   xx     
+#2   x    
+#             
+#x             
+#xx  ooooo    
+#x                         
+#          n  
+#             
+#2             
+#        n     
+#              
+#3             
+#              
+#L  c          
+##  c         
+##1 cf      n   
+##  c          
+#R  c          
+#              
+#             
+#           n  
+# oooo        
+#2oooo        
+# oooo        
+#         
+#2              
+#              
+#     n        
+#2            
+#              
+#  c         n 
+#2 c           
+#  c1          
+#  c           
+#2             
+#     c        
+#x    c3       
+#     c        
+#          n   
+#              
+#ccc2          
+#              
+#ccc2          
+#              
+#ccc2          
+#       n      
+#              
+#              
+#              
+#L            
+##  c  oo      
+##1 c  oo      
+RR             
+               
+              
+L3            
+R             
+              
+   c         
+   c          
+              
+L     c   n   
+#f    c       
+#             
+#  oo   c     
+R  oo   c1    
+              
+              
+    c     n   
+    c3        
+    c         
+              
+L             
+#            n
+#1            
+#xxx          
+#            
+#1     n      
+#             
+#1             
+#xxx           
+#             
+#              
+#             
+#f       n     
+#             
+R              
+              
+               
+   c  o     n  
+   c  o        
+               
+               
+      c        
+      c        
+      c        
+               
+               
+               
+lllllllllL     
+mmmmmmmmm#    
+mmmmmmmmm#    
+mmmmmmmmm#    
+mmmmmmmmm#    
+mmmmmmmmm#    
+mmmmmmmmm#    
+mmmmmmmmm#gG    
+mmmmmmmmm#hH    
+mmmmmmmmm#iI    
+mmmmmmmmm#llll    
+mmmmmmmmm#mmmm   
+mmmmmmmmm#mmmm   
+mmmmmmmmm#mmmm   
+mmmmmmmmm#mmmm   
+mmmmmmmmm#mmmm   
+mmmmmmmmm#mmmm   
+mmmmmmmmm#mmmm   
+mmmmmmmmm#mmmm
